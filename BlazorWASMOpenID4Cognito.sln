@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWASMOpenID4Cognito", "BlazorWASMOpenID4Cognito.csproj", "{EA70305B-87AC-483E-A24C-4EBB0CCC25D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA70305B-87AC-483E-A24C-4EBB0CCC25D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA70305B-87AC-483E-A24C-4EBB0CCC25D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA70305B-87AC-483E-A24C-4EBB0CCC25D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA70305B-87AC-483E-A24C-4EBB0CCC25D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44540EF3-9BAE-4D92-B4F3-CED637308A67}
+	EndGlobalSection
+EndGlobal
